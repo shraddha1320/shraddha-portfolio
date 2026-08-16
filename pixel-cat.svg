@@ -1,0 +1,286 @@
+<svg
+  width="96"
+  height="96"
+  viewBox="0 0 24 24"
+  xmlns="http://www.w3.org/2000/svg"
+  shape-rendering="crispEdges"
+>
+  <!-- =========================
+       PIXEL CAT
+       White + Black + Soft Pink
+       ========================= -->
+
+  <!-- TAIL OUTLINE -->
+  <path
+    d="
+      M18 14
+      h3
+      v2
+      h-1
+      v5
+      h-3
+      v-2
+      h2
+      v-4
+      h-1
+      z
+    "
+    fill="#0B0B0B"
+  />
+
+  <!-- BODY OUTLINE -->
+  <path
+    d="
+      M6 11
+      h12
+      v2
+      h2
+      v6
+      h-2
+      v2
+      H6
+      v-2
+      H4
+      v-6
+      h2
+      z
+    "
+    fill="#0B0B0B"
+  />
+
+  <!-- WHITE BODY -->
+  <path
+    d="
+      M7 12
+      h10
+      v2
+      h1
+      v4
+      h-2
+      v2
+      H7
+      v-2
+      H6
+      v-4
+      h1
+      z
+    "
+    fill="#FFFFFF"
+  />
+
+  <!-- HEAD OUTLINE -->
+  <path
+    d="
+      M4 6
+      h2
+      V3
+      h4
+      v2
+      h4
+      V3
+      h4
+      v3
+      h2
+      v8
+      H4
+      z
+    "
+    fill="#0B0B0B"
+  />
+
+  <!-- WHITE HEAD -->
+  <path
+    d="
+      M6 7
+      h2
+      V5
+      h2
+      v2
+      h4
+      V5
+      h2
+      v2
+      h2
+      v5
+      H6
+      z
+    "
+    fill="#FFFFFF"
+  />
+
+  <!-- INNER EARS — SOFT PINK -->
+  <path
+    d="
+      M7 5
+      h2
+      v2
+      H7
+      z
+
+      M15 5
+      h2
+      v2
+      h-2
+      z
+    "
+    fill="#F7A8C8"
+  />
+
+  <!-- EYES -->
+  <path
+    d="
+      M8 9
+      h2
+      v2
+      H8
+      z
+
+      M14 9
+      h2
+      v2
+      h-2
+      z
+    "
+    fill="#0B0B0B"
+  />
+
+  <!-- SOFT PINK EYE HIGHLIGHTS -->
+  <path
+    d="
+      M9 9
+      h1
+      v1
+      H9
+      z
+
+      M14 9
+      h1
+      v1
+      h-1
+      z
+    "
+    fill="#F7A8C8"
+  />
+
+  <!-- NOSE — SOFT PINK -->
+  <path
+    d="
+      M11 11
+      h2
+      v1
+      h-2
+      z
+    "
+    fill="#F7A8C8"
+  />
+
+  <!-- MOUTH -->
+  <path
+    d="
+      M10 12
+      h1
+      v1
+      h2
+      v-1
+      h1
+      v1
+      h-1
+      v1
+      h-2
+      v-1
+      h-1
+      z
+    "
+    fill="#0B0B0B"
+  />
+
+  <!-- WHISKERS -->
+  <path
+    d="
+      M6 11
+      H3
+      v1
+      h3
+      z
+
+      M6 13
+      H2
+      v1
+      h4
+      z
+
+      M18 11
+      h3
+      v1
+      h-3
+      z
+
+      M18 13
+      h4
+      v1
+      h-4
+      z
+    "
+    fill="#0B0B0B"
+  />
+
+  <!-- SOFT PINK COLLAR -->
+  <path
+    d="
+      M7 15
+      h10
+      v2
+      H7
+      z
+    "
+    fill="#F7A8C8"
+  />
+
+  <!-- COLLAR BELL -->
+  <path
+    d="
+      M11 17
+      h2
+      v2
+      h-2
+      z
+    "
+    fill="#0B0B0B"
+  />
+
+  <!-- WHITE PAWS -->
+  <path
+    d="
+      M7 18
+      h3
+      v2
+      H7
+      z
+
+      M14 18
+      h3
+      v2
+      h-3
+      z
+    "
+    fill="#FFFFFF"
+  />
+
+  <!-- SOFT PINK TINY PAW ACCENTS -->
+  <path
+    d="
+      M8 19
+      h1
+      v1
+      H8
+      z
+
+      M15 19
+      h1
+      v1
+      h-1
+      z
+    "
+    fill="#F7A8C8"
+  />
+</svg>
